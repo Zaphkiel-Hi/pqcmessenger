@@ -1,2 +1,0 @@
-# pqcmessenger
-PQC Messenger
