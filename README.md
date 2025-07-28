@@ -14,8 +14,3 @@ An intra-organizational chat application leveraging Post-Quantum Cryptography to
 - Encrypted end-to-end chat
 - Role-based access control
 
-🛠️ Setup:
-git clone https://github.com/yourusername/pqc-messenger
-cd pqc-messenger
-pip install -r requirements.txt
-python app.py
